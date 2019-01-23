@@ -2,6 +2,7 @@
 Folder including...
 
 ** Plt ploting <br />
+- Basic math function plot <br />
 - Survival analysis <br />
 - Correlation plotting -Pearson and so on.. <br />
 
